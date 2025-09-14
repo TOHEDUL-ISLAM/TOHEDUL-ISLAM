@@ -1,4 +1,4 @@
-Assalamualaikum, I'm **Tohedul Islam Nirzon**.
+## Assalamualaikum, I'm **Tohedul Islam Nirzon**.
 
 * 💻 Computer Science & Engineering student & AI enthusiast
 * 🤖 Passionate about generative AI and building projects with LLMs and RAG
