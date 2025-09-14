@@ -1,5 +1,5 @@
 <h2 align="center">As-salamu alaykum</h2>
-<h1 align="center">Md. Tohedul Islam Nirzon</h1>
+<h1 align="center">I am Md. Tohedul Islam Nirzon</h1>
 <h3 align="center">Computer Science and Engineering student exploring AI & web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohedul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="tohedul-islam" /> </p>
