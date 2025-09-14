@@ -1,14 +1,11 @@
 ## Hi there, I'm Nirzon! 👋
 Sure Nirzon here’s a fresh GitHub “About Me” for you
 
----
+- 💻 Computer Science and Engineering student
+- 🤖 Generative AI with LLMs and RAG  
+- 🌐 Frontend developer: React + Tailwind CSS  
+- 🚀 Exploring creative ways to combine AI and web development  
 
-💻 Computer Science & Engineering student 
-🤖 Passionate about generative AI and building projects with LLMs and RAG
-🌐 Frontend developer: React + Tailwind CSS
-🚀 Exploring creative ways to combine AI and web development
-
----
 
 
 ## 🌐 Socials
