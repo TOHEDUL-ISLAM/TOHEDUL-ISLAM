@@ -1,10 +1,10 @@
 ## Hi there, I'm Nirzon! 👋
-
+--
 💻 Computer Science & Engineering student
 🤖 Passionate about generative AI and building projects with LLMs and RAG
 🌐 Frontend developer: React + Tailwind CSS
 🚀 Exploring creative ways to combine AI and web development
-
+--
 ## 🌐 Socials
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nirzon)
