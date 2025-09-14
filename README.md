@@ -1,11 +1,12 @@
- Assalamualaikum, 
- ## I'm **Nirzon**.
+## Hi there, I'm Nirzon! 👋
 
-* 💻 Computer Science & Engineering student & AI enthusiast
-* 🤖 Passionate about generative AI and building projects with LLMs and RAG
-* 🌐 Frontend developer: React + Tailwind CSS
-* 🚀 Exploring creative ways to combine AI and web development
+I'm a **Computer Science & Engineering** student who is deeply fascinated by the world of Artificial Intelligence. My goal is to build amazing things at the intersection of AI and the web.
 
+- 🤖 My main passion is **Generative AI**. I love to experiment and build applications using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architecture.
+
+- 💻 On the web development side, my toolkit includes **React** and **Tailwind CSS** for building clean, modern, and responsive user interfaces.
+
+- 🚀 I'm always on a journey to find creative and impactful ways to integrate intelligent features into user-facing applications.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nirzon) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tohedul.islam.nirzon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tohedul-islam-nirzon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nirzon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Tohedulaks@gmail.com) 
