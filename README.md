@@ -1,5 +1,4 @@
 ## Hi there, I'm Nirzon! 👋
-Sure Nirzon here’s a fresh GitHub “About Me” for you
 
 - 💻 Computer Science and Engineering student
 - 🤖 Generative AI with LLMs and RAG  
