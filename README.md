@@ -1,10 +1,9 @@
 ## Hi there, I'm Nirzon! 👋
 
-I'm a **Computer Science & Engineering** student who is deeply fascinated by the world of Artificial Intelligence. My goal is to build amazing things at the intersection of AI and the web.
-
-- 🤖 My main passion is **Generative AI**. I love to experiment and build applications using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architecture.
-
-- 💻 On the web development side, my toolkit includes **React** and **Tailwind CSS** for building clean, modern, and responsive user interfaces.
+💻 Computer Science & Engineering student
+🤖 Passionate about generative AI and building projects with LLMs and RAG
+🌐 Frontend developer: React + Tailwind CSS
+🚀 Exploring creative ways to combine AI and web development
 
 ## 🌐 Socials
 
