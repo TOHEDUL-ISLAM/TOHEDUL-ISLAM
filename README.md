@@ -1,4 +1,5 @@
- Assalamualaikum,## I'm **Nirzon**.
+ Assalamualaikum, 
+ ## I'm **Nirzon**.
 
 * 💻 Computer Science & Engineering student & AI enthusiast
 * 🤖 Passionate about generative AI and building projects with LLMs and RAG
