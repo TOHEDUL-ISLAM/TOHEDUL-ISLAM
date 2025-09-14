@@ -1,7 +1,7 @@
 ## Hi there, I'm Nirzon! 👋
 
 - 💻 Computer Science and Engineering student
-- 🤖 Generative AI with LLMs and RAG  
+- 🤖 Passionate about generative AI and building projects with LLMs and RAG 
 - 🌐 Frontend developer: React + Tailwind CSS  
 - 🚀 Exploring creative ways to combine AI and web development  
 
