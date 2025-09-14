@@ -1,5 +1,9 @@
-# 💫 About Me:
-💻 Computer Science & Engineering student & AI enthusiast<br>🤖 Passionate about generative AI and building projects with LLMs and RAG<br>🌐 Frontend developer: React + Tailwind CSS<br>🚀 Exploring creative ways to combine AI and web development
+Assalamualaikum, I'm **Tohedul Islam Nirzon**.
+
+* 💻 Computer Science & Engineering student & AI enthusiast
+* 🤖 Passionate about generative AI and building projects with LLMs and RAG
+* 🌐 Frontend developer: React + Tailwind CSS
+* 🚀 Exploring creative ways to combine AI and web development
 
 
 ## 🌐 Socials:
